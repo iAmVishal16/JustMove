@@ -2,4 +2,4 @@
 Demonstrate How to use Lottie Animation in SwiftUI. A motivational Quote with smooth animation using words. 
 
 # Preview
-![](Screen Recording 2023-05-18 at 10.59.42 PM.mov)
+![](https://github.com/iAmVishal16/JustMove/blob/main/Screen%20Recording%202023-05-18%20at%2010.59.42%20PM.mov)
